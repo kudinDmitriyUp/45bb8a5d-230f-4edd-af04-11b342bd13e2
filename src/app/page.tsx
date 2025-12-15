@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleMinimal from '@/components/navbar/NavbarStyleMinimal';
@@ -108,8 +108,7 @@ export default function LandingPage() {
             {
               id: "1",
               button: {
-                text: "View Details",
-                id: "view-1"
+                text: "View Details"
               },
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35vmIsFKiMtTSUSBP7nWGRgR0We/uploaded-1765795307168-5okohl2e.jpg",
               imageAlt: "Pan-seared sea bass with seasonal vegetables"
@@ -117,8 +116,7 @@ export default function LandingPage() {
             {
               id: "2",
               button: {
-                text: "View Details",
-                id: "view-2"
+                text: "View Details"
               },
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35vmIsFKiMtTSUSBP7nWGRgR0We/uploaded-1765795308057-5vogmdzd.jpg",
               imageAlt: "Crispy calamari with house-made aioli"
@@ -126,8 +124,7 @@ export default function LandingPage() {
             {
               id: "3",
               button: {
-                text: "View Details",
-                id: "view-3"
+                text: "View Details"
               },
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35vmIsFKiMtTSUSBP7nWGRgR0We/uploaded-1765795308914-aab6n1ms.jpg",
               imageAlt: "Chocolate lava cake with vanilla ice cream"
@@ -135,8 +132,7 @@ export default function LandingPage() {
             {
               id: "4",
               button: {
-                text: "View Details",
-                id: "view-4"
+                text: "View Details"
               },
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35vmIsFKiMtTSUSBP7nWGRgR0We/uploaded-1765795309744-ps2k6qed.jpg",
               imageAlt: "Handmade pasta with truffle sauce"
