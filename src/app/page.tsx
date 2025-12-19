@@ -52,9 +52,9 @@ export default function LandingPage() {
               href: "#menu"
             }
           ]}
-          showcaseImageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35vmIsFKiMtTSUSBP7nWGRgR0We/uploaded-1765795303919-s0u1vzsy.jpg"
+          showcaseImageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766151816773-se7w2jqd.jpg"
           showcaseImageAlt="Smile and Eat restaurant dining experience"
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35vmIsFKiMtTSUSBP7nWGRgR0We/uploaded-1765795303919-s0u1vzsy.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766151816773-se7w2jqd.jpg"
           imageAlt="Elegant restaurant interior"
           showDimOverlay={true}
         />
